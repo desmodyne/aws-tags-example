@@ -1,5 +1,5 @@
 import pulumi
-from taggable import is_taggable
+from autotag.taggable import is_taggable
 
 # registerAutoTags registers a global stack transformation that merges a set
 # of tags with whatever was also explicitly added to the resource definition.
