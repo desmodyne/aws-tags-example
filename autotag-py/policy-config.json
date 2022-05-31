@@ -1,6 +1,6 @@
 {
     "all": "mandatory",
-    "check-required-tags": {
+    "check required tags": {
         "requiredTags": [
             "user:Project",
             "user:Stack",
